@@ -1,0 +1,26 @@
+---Markdown---
+
+markup word voornamijlijk gebruikt om simpel overzichtelijke text weer te geven en te formateren op websites. 
+
+voorbeelden:
+https://e-learning.educom.nu/
+https://github.com/ (gedeeltelijk)
+
+---JSON---
+jason word gebruikt voor het uitwisselen van data tussen webaplicatie en de server.
+je kan hier strings, getallen, arrays, objecten, en booleans mee versturen.
+
+websites die JSON gebruiken zijn hier te vinden:
+https://trends.builtwith.com/websitelist/JSON
+
+---xml---
+
+---SVG---
+SVG is een manier van een afbeelding weer te geven doormiddel van standaard vormen een kleur en relative positie te geven.
+Dit zorgd voor een altijd scherpe afbeelding, en (afhankelijk van de afbeelding) een lichter bestand.
+
+voorbeeld van een site die het gebruikt:
+https://www.saaa.am/
+
+---YAML---
+
