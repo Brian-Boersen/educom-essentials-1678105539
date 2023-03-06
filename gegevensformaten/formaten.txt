@@ -26,4 +26,5 @@ voorbeeld van een site die het gebruikt:
 https://www.saaa.am/
 
 ---YAML----------------------------------------------------------------
-YAML is om bestanden te configureren voor programmas
+YAML is om bestanden te configureren voor programmas.
+
