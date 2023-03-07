@@ -14,9 +14,13 @@ je kan hier strings, getallen, arrays, objecten, en booleans mee versturen.
 websites die JSON gebruiken zijn hier te vinden:
 https://trends.builtwith.com/websitelist/JSON
 
----xml----------------------------------------------------------------
-xml is een taal dat gebruik maakt van elementen en attributen om gegevens te structureren.
+---XML----------------------------------------------------------------
+XML is een taal dat gebruik maakt van elementen en attributen om gegevens te structureren.
 het word vooral gebruikt om data te versturen, maar kan ook gebruiktworden om data te weergeven.
+Door hoe XML in elkaar zit ondersteund het geen arrays. 
+Maar door het structuur is het makkelijk om te zetten naar een HTML of een PDF format. 
+
+XML word gebruikt in onderandere Microsoft office.
 
 ---SVG----------------------------------------------------------------
 SVG is een manier van een afbeelding weer te geven doormiddel van standaard vormen een kleur en relative positie te geven.
